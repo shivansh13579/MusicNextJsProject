@@ -47,7 +47,7 @@ function TestimonialCards() {
         speed="slow"
       />
         </div>
-       </div>.
+       </div>
     </div>
    
   )
